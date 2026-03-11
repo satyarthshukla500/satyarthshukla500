@@ -13,7 +13,7 @@
   <path d="M0,140 C200,100 400,170 600,130 C800,90 1000,160 1200,120 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.15)"/>
   <path d="M0,160 C300,120 600,180 900,140 C1050,120 1150,150 1200,145 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.1)"/>
   <text x="600" y="95" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Satyarth Shukla</text>
-  <text x="600" y="135" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">BCA 2nd Year | AI &amp; ML Specialization | Data Science Enthusiast</text>
+  <text x="600" y="135" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">
 </svg>
 
 <!-- Typing animation -->
