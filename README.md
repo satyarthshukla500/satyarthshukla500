@@ -1,20 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="banner.gif" />
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00C9A7;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#00B4D8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7B2FBE;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="200" fill="url(#grad)"/>
-  <path d="M0,140 C200,100 400,170 600,130 C800,90 1000,160 1200,120 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.15)"/>
-  <path d="M0,160 C300,120 600,180 900,140 C1050,120 1150,150 1200,145 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.1)"/>
-  <text x="600" y="95" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">
-  <text x="600" y="135" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">
-</svg>
+<!-- Animated Particle Banner -->
+<img width="100%" src="banner.gif" alt="Satyarth Shukla Banner" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;AI+%26+ML+Specialization+%F0%9F%A4%96;Data+Science+%7C+AWS+Bedrock+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -84,6 +71,8 @@ const satyarth = {
 > 9 AI Workspaces: General Chat • Explain Assist • Debug Workspace • Smart Summarizer • Quiz Arena • Interactive Quiz • Cyber Safety • Mental Wellness • Study Focus
 >
 > **Stack:** Next.js 14 · AWS Bedrock · DynamoDB · S3 · Rekognition · SageMaker · MongoDB Atlas · Supabase · Groq
+>
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C9A7?style=for-the-badge)](https://github.com/satyarthshukla500/Nebula-AI)  [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/satyarthshukla500/Nebula-AI)
 
 </div>
 
@@ -101,6 +90,16 @@ const satyarth = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=satyarthshukla500&theme=radical&hide_border=true&background=0D1117&stroke=00C9A7&ring=00B4D8&fire=7B2FBE&currStreakLabel=00C9A7)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/satyarthshukla500/satyarthshukla500/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -128,8 +127,6 @@ const satyarth = {
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00B4D8,100:00C9A7&height=120&section=footer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyarthshukla500&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
 
