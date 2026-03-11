@@ -64,7 +64,7 @@ const satyarth = {
 
 ### 🔭 Nebula AI — Multi-Workspace AI SaaS Platform
 
-[![Nebula AI](https://github-readme-stats.vercel.app/api/pin/?username=satyarthshukla500&repo=Nebula-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00B4D8&text_color=ffffff)](https://github.com/satyarthshukla500/Nebula-AI)
+[![Nebula AI](https://github-readme-stats.vercel.app/api/pin/?username=satyarthshukla500&repo=nebula-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00B4D8&text_color=ffffff)](https://github.com/satyarthshukla500/nebula-ai)
 
 > 🤖 Built for the **AWS "AI for Bharat" Hackathon** (Track 4: AI for Learning & Developer Productivity)
 >
@@ -72,7 +72,7 @@ const satyarth = {
 >
 > **Stack:** Next.js 14 · AWS Bedrock · DynamoDB · S3 · Rekognition · SageMaker · MongoDB Atlas · Supabase · Groq
 >
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C9A7?style=for-the-badge)](https://github.com/satyarthshukla500/Nebula-AI)  [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/satyarthshukla500/Nebula-AI)
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C9A7?style=for-the-badge)](https://github.com/satyarthshukla500/nebula-ai)  [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/satyarthshukla500/nebula-ai)
 
 </div>
 
