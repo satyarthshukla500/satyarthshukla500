@@ -1,7 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00B4D8,100:7B2FBE&height=220&section=header&text=Satyarth%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%202nd%20Year%20%7C%20AI%20%26%20ML%20Specialization%20%7C%20Data%20Science%20Enthusiast&descSize=20&descAlignY=58&descAlign=50" onerror="this.style.display='none'" />
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C9A7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00B4D8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B2FBE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#grad)"/>
+  <path d="M0,140 C200,100 400,170 600,130 C800,90 1000,160 1200,120 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.15)"/>
+  <path d="M0,160 C300,120 600,180 900,140 C1050,120 1150,150 1200,145 L1200,200 L0,200 Z" fill="rgba(0,0,0,0.1)"/>
+  <text x="600" y="95" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Satyarth Shukla</text>
+  <text x="600" y="135" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">BCA 2nd Year | AI &amp; ML Specialization | Data Science Enthusiast</text>
+</svg>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;AI+%26+ML+Specialization+%F0%9F%A4%96;Data+Science+%7C+AWS+Bedrock+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
