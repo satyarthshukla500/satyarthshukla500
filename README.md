@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=999999&color=00C9A7&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=100&lines=Satyarth+Shukla" />
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=00B4D8&background=0D1117&center=true&vCenter=true&repeat=false&width=1200&height=50&lines=BCA+2nd+Year+%7C+AI+%26+ML+Specialization+%7C+Data+Science+Enthusiast" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00B4D8,100:7B2FBE&height=220&section=header&text=Satyarth%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%202nd%20Year%20%7C%20AI%20%26%20ML%20Specialization%20%7C%20Data%20Science%20Enthusiast&descSize=20&descAlignY=58&descAlign=50" onerror="this.style.display='none'" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;AI+%26+ML+Specialization+%F0%9F%A4%96;Data+Science+%7C+AWS+Bedrock+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
