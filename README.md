@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00B4D8,100:7B2FBE&height=200&section=header&text=Satyarth%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20AI%20%26%20ML%20Specialization%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" />
+# 👋 Hi, I'm Satyarth Shukla
+### 🎓 BCA 2nd Year | AI & ML Specialization | Data Science Enthusiast
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;AI+%26+ML+Specialization+%F0%9F%A4%96;Data+Science+%7C+AWS+Bedrock+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -116,7 +116,7 @@ const satyarth = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00B4D8,100:00C9A7&height=120&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyarthshukla500&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
 
