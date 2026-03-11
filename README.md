@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00B4D8,100:7B2FBE&height=200&section=header&text=Satyarth%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:00B4D8,100:7B2FBE&height=200&section=header&text=Satyarth%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20AI%20%26%20ML%20Specialization%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;Building+AI-Powered+Apps+%F0%9F%A4%96;Full-Stack+%7C+Next.js+%7C+AWS+Bedrock;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Satyarth+%F0%9F%91%8B;BCA+2nd+Year+%7C+4th+Semester;AI+%26+ML+Specialization+%F0%9F%A4%96;Data+Science+%7C+AWS+Bedrock+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,14 @@
 
 ```javascript
 const satyarth = {
-  education:   "BCA — 2nd Year, 4th Semester",
-  location:    "Ujjain, Madhya Pradesh 🇮🇳",
-  currentFocus: "Building AI-Powered Web Applications",
-  learning:    ["Next.js 14", "AWS Bedrock", "Full-Stack Development"],
-  collaborateOn: "AI tools, EdTech projects, Open Source",
-  askMeAbout:  ["React", "Node.js", "AWS", "Java", "Web Dev"],
-  funFact:     "I built a multi-workspace AI SaaS platform as a student! 🤯"
+  education:      "BCA — 2nd Year, 4th Semester (AI & ML Specialization)",
+  program:        "BCA (3-Year Degree) — Specialization: AI, ML & Data Science",
+  location:       "Ujjain, Madhya Pradesh 🇮🇳",
+  currentFocus:   "Machine Learning, Data Science & AI Applications",
+  learning:       ["Python", "ML Algorithms", "AWS Bedrock", "Data Science"],
+  collaborateOn:  "AI/ML projects, EdTech tools, Open Source",
+  askMeAbout:     ["Python", "Machine Learning", "AWS", "Data Analysis"],
+  funFact:        "I built a multi-workspace AI SaaS platform as a 2nd-year student! 🤯"
 };
 ```
 
@@ -30,29 +31,28 @@ const satyarth = {
 
 <div align="center">
 
-**Frontend**
+**AI & Machine Learning**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Backend & Cloud**
+**Cloud & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools**
+**Web & Tools**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -95,11 +95,11 @@ const satyarth = {
 
 ## 🎯 Currently
 
-- 🔭 Working on **Nebula AI** — improving UI for resubmission
-- 🌱 Learning **AWS Bedrock, Next.js 14, Full-Stack Architecture**
-- 💬 Ask me about **React, Node.js, AWS, Java, Web Development**
-- 🤝 Looking to **collaborate on AI/EdTech projects**
-- ⚡ Fun fact: I deployed a full AI SaaS on EC2 + Nginx as a 2nd-year student!
+- 🔭 Working on **Nebula AI** — AI SaaS with AWS Bedrock
+- 🌱 Learning **Machine Learning, Data Science & Python**
+- 💬 Ask me about **Python, ML, AWS, Data Analysis**
+- 🤝 Looking to **collaborate on AI/ML & EdTech projects**
+- ⚡ Fun fact: I built and deployed a full AI SaaS on AWS EC2 as a 2nd-year BCA student!
 
 ---
 
